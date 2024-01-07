@@ -1,3 +1,3 @@
 # Hadoop-Configuration
 
-This is Hadoop 3.1.0 Configuration
+All configuration files for big data development hadoop
