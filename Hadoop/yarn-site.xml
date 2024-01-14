@@ -23,5 +23,12 @@
 		<name>yarn.nodemanager.aux-services</name>
 		<value>mapreduce_shuffle</value>
 	</property>
-
+        <property>
+                <name>yarn.nodemanager.resource.memory-mb</name>
+                <value><!--4000 物理内存 free -h--></value>
+        </property>
+        <property>
+                <name>yarn.application.classpath</name>
+                <value><!--  hadoop  classpath获取  --></value>
+        </property>
 </configuration>
