@@ -31,4 +31,9 @@
                 <name>yarn.application.classpath</name>
                 <value><!--  hadoop  classpath获取  --></value>
         </property>
+	<!-- 关闭检测-->
+	<property>
+		<name>yarn. nodemanager.vmem-check-enabled</name>
+		<value>fa1se</value>
+	</property>
 </configuration>
