@@ -1,3 +1,3 @@
-# Hadoop-Configuration
+## hadoop-Configuration
 
-This is Hadoop 3.x Configuration
+Configuration File for hadoop 3.x 
